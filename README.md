@@ -36,15 +36,16 @@ for example, if # of layers are 2, we can reduce circuit depth like  RZRY RZRZ R
 So original circuit depth was 3 * # of layers, we reduced this depth into 2* # of layers + 1. Therfore, we can get more compact circuit.<br/>
 
 # Dataset
-We used Haberman's survival dataset(https://archive.ics.uci.edu/ml/datasets/haberman's+survival)
-Features
+We used Haberman's survival dataset(https://archive.ics.uci.edu/ml/datasets/haberman's+survival)<br/>
+<br/>
+__Features__
 1. Age of patient at time of operation (numerical)<br/>
 2. Patient's year of operation (year - 1900, numerical)<br/>
 3. Number of positive axillary nodes detected (numerical)<br/>
 
-Class : Survival status <br/>
-1 = the patient survived 5 years or longer<br/>
-2 = the patient died within 5 year
+__Class : Survival status__<br/>
+<br/>&nbsp;&nbsp;1 = the patient survived 5 years or longer<br/>
+<br/>&nbsp;&nbsp;2 = the patient died within 5 year
 
 # References
 1. Havlíček, Vojtěch, et al. "Supervised learning with quantum-enhanced feature spaces." Nature 567.7747 (2019): 209-212.<br/>
