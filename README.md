@@ -45,8 +45,9 @@ __Features__
 
 __Class : Survival status__<br/>
 <br/>&nbsp;&nbsp;1 = the patient survived 5 years or longer<br/>
-<br/>&nbsp;&nbsp;2 = the patient died within 5 year
+<br/>&nbsp;&nbsp;2 = the patient died within 5 year<br/>
 
+Some results are in dataset folder
 # References
 1. Havlíček, Vojtěch, et al. "Supervised learning with quantum-enhanced feature spaces." Nature 567.7747 (2019): 209-212.<br/>
 2. Schuld, Maria, and Francesco Petruccione. "Quantum ensembles of quantum classifiers." Scientific reports 8.1 (2018): 2772.<br/>
