@@ -47,7 +47,7 @@ __Class : Survival status__<br/>
 <br/>&nbsp;&nbsp;1 = the patient survived 5 years or longer<br/>
 <br/>&nbsp;&nbsp;2 = the patient died within 5 year<br/>
 
-Presentation : SnuQuant presentation.pdf<br/>
+Presentation : https://github.com/snuphya/Qhack-2023-Quantum-ensemble-learning-for-classification-with-various-quantum-classifiers/blob/3890dc29f3b9f27b5097b90e9920d5e853011cc1/SnuQuant%20presentation.pdf<br/>
 Some results are in dataset folder
 # References
 1. Havlíček, Vojtěch, et al. "Supervised learning with quantum-enhanced feature spaces." Nature 567.7747 (2019): 209-212.<br/>
